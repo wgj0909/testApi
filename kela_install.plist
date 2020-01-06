@@ -27,19 +27,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/wgj0909/testApi/raw/master/TotoroRepayment%2Btest.ipa</string>
+					<string>https://github.com/wgj0909/testApi/raw/master/TestOne.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.diyunkeji.TotoroRepayment</string>
+				<string>wu.TestOne1</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>龙猫助手</string>
+				<string>TestOne</string>
 			</dict>
 		</dict>
 	</array>
