@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>wu.TestOne1</string>
+				<string>com.jsqb.gavin</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
